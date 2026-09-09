@@ -1,0 +1,11 @@
+make dir root folder  
+
+D:\fastapidemo>
+D:\fastapidemo> python -m venv venv
+D:\fastapidemo> .venv\Scripts\Activate.ps1
+(venv) D:\fastapidemo>
+(venv) D:\fastapidemo> pip install fastapi uvicorn sqlalchemy psycopg2-binary python-dotenv
+
+
+.env file in root folder.
+DATABASE_URL = ""
