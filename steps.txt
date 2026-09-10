@@ -9,3 +9,5 @@ D:\fastapidemo> .venv\Scripts\Activate.ps1
 
 .env file in root folder.
 DATABASE_URL = ""
+
+The below lines are added for git update test.
