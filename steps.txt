@@ -9,3 +9,5 @@ D:\fastapidemo> .venv\Scripts\Activate.ps1
 
 .env file in root folder.
 DATABASE_URL = ""
+
+In steps added some comment
